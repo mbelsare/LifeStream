@@ -1,0 +1,1 @@
+We have created a JPA POC project and compiled it into a JAR and have included the JAR in the lib for Poke-Netty project along with the dependent jars of JPAPOC.
